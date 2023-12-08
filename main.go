@@ -1,5 +1,6 @@
 package main
 
 func main() {
-	day01()
+	// selecting by args later or never))
+	day02()
 }
